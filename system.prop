@@ -1,0 +1,7 @@
+#高级材质补全
+persist.sys.background_blur_status_default=true
+persist.sys.advanced_visual_release=3
+
+#倍速进游戏
+debug.game.video.support=true
+debug.game.video.speed=true
