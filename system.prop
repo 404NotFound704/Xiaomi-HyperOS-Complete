@@ -5,7 +5,3 @@ persist.sys.background_blur_status_default=true
 #天气
 persist.sys.computility.cpulevel=6
 persist.sys.computility.gpulevel=6
-
-#倍速进游戏
-debug.game.video.support=true
-debug.game.video.speed=true
